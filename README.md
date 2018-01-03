@@ -1,2 +1,2 @@
 # hello-world
-my first git-hub project of hello-world. it's amazing.
+My first git-hub project about hello-world. It's amazing.
